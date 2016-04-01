@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClearableEditText">
+        <attr name="cet_drawable" format="integer" />
+        <attr name="cet_tint" format="color" />
+        <attr name="cet_tintStateList" format="color" />
+    </declare-styleable>
+</resources>
